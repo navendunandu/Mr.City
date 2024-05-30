@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    
+    .listcontainer{
+        flex: 6;
+
+        .districtListDeletered{
+            color: red;
+        }
+    }
+}   
